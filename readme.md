@@ -33,3 +33,6 @@
 
 ## 使用Plugin 
 * [skrollr.js](https://github.com/Prinzhorn/skrollr)
+
+## 心得
+這次在RWD的部分有規劃的比上一次作業好，也從logo設計開始跑了一次設計流程，只是還沒有學到框架的部份，所以部分頁面只能分開來做，之後試著學Vue框架來實現單頁網站。
