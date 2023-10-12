@@ -2,15 +2,23 @@
 設計一家咖啡店的網頁<br>
 這是一份 網頁設計 練習
 
+* [Demo](#demo) 
+* [網頁頁面](#網頁頁面) 
+* [視覺設計](#視覺設計) 
+* [概要](#概要) 
+* [使用技術](#使用技術) 
+* [使用Plugin](#使用plugin) 
+* [心得](#心得) 
+
 ## Demo
 <https://minachao.github.io/WebPractice_2/index.html>
 
 ## 網頁頁面
 [Figma 設計稿](https://www.figma.com/file/Ynk40qY9ZtRSGxQ4wTnkZa/%E5%92%8C%E6%97%A5%E5%92%96%E5%95%A1%E8%A8%AD%E8%A8%88%E7%A8%BF?type=design&node-id=167%3A292&mode=design&t=js7nYsOEmRteuBU9-1)
 
-<img src="https://i.imgur.com/rdmSjJM.gif" width="100%">
+<img src="web_page.gif" width="100%">
 
-## 品牌視覺
+## 視覺設計
 ![](https://i.imgur.com/JWjEOER.jpg)
 
 ## 概要
