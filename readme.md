@@ -8,7 +8,7 @@
 ## 網頁頁面
 [Figma 設計稿](https://www.figma.com/file/Ynk40qY9ZtRSGxQ4wTnkZa/%E5%92%8C%E6%97%A5%E5%92%96%E5%95%A1%E8%A8%AD%E8%A8%88%E7%A8%BF?type=design&node-id=167%3A292&mode=design&t=js7nYsOEmRteuBU9-1)
 
-<img src="https://i.imgur.com/XSdlKLI.gif" width="100%"></img>
+<img src="https://i.imgur.com/rdmSjJM.gif" width="100%">
 
 ## 品牌視覺
 ![](https://i.imgur.com/JWjEOER.jpg)
